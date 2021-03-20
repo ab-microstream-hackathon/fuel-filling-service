@@ -1,4 +1,4 @@
-# fuel-filling-service [![Demo](https://img.shields.io/website?label=demo&logo=heroku&url=https%3A%2F%2Fhackathon-ms-fuel-filling.herokuapp.com)](https://hackathon-ms-fuel-filling.herokuapp.com) [![Build Status](https://img.shields.io/github/workflow/status/ab-microstream-hackathon/fuel-filling-service/Check%20Build/develop)](https://github.com/ab-microstream-hackathon/fuel-filling-service/actions/workflows/checkBuild.yml?query=branch%3Adevelop)
+# fuel-filling-service [![Demo](https://img.shields.io/badge/demo-online-success?logo=heroku)](https://hackathon-ms-fuel-filling.herokuapp.com) [![Build Status](https://img.shields.io/github/workflow/status/ab-microstream-hackathon/fuel-filling-service/Check%20Build/develop)](https://github.com/ab-microstream-hackathon/fuel-filling-service/actions/workflows/checkBuild.yml?query=branch%3Adevelop)
 A helidon (microprofile) RESTful webservice with microstream.
 
 The project represents a basic CRUD webservice where you can manage fuel fillings (of a car).<br>
